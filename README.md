@@ -54,3 +54,18 @@ A user-friendly design is crucial in any booking system because it directly affe
 An intuitive interface allows users to navigate effortlessly, find properties quickly, and complete bookings with minimal steps.
 A visually appealing and consistent design helps build credibility, while responsive and fast-loading pages enhance accessibility for users on different devices and network speeds.
 Ultimately, a well-designed booking system ensures users have a smooth, reliable, and enjoyable experience, encouraging return visits and positive word-of-mouth.
+
+👥 Project Roles and Responsibilities
+
+This section defines the key roles within the project team and outlines their responsibilities in ensuring successful delivery of the Airbnb Clone Project.
+
+Role	Responsibilities
+Project Manager	Oversees project timeline, coordinates team efforts, and manages deliverables to ensure milestones are achieved on schedule.
+Frontend Developers	Implement UI components, integrate APIs, and ensure responsive design across devices and browsers.
+Backend Developers	Build and maintain RESTful APIs, manage the database, and implement core business logic for booking, authentication, and user management.
+Designers	Create mockups, develop and maintain the design system, and ensure visual and UX quality throughout the application.
+QA/Testers	Write test cases, perform manual and automated testing, and report bugs to maintain software reliability.
+DevOps Engineers	Manage deployment processes, maintain CI/CD pipelines, and oversee server infrastructure for scalability and performance.
+Product Owner	Define project requirements, prioritize features, and represent stakeholder interests to align development with business goals.
+Scrum Master	Facilitate agile ceremonies, remove blockers, and ensure team efficiency by maintaining smooth workflow and communication.
+
