@@ -69,3 +69,62 @@ DevOps Engineers	Manage deployment processes, maintain CI/CD pipelines, and over
 Product Owner	Define project requirements, prioritize features, and represent stakeholder interests to align development with business goals.
 Scrum Master	Facilitate agile ceremonies, remove blockers, and ensure team efficiency by maintaining smooth workflow and communication.
 
+🧩 UI Component Patterns
+
+To ensure a cohesive and maintainable interface, the project will implement modular, reusable UI components following consistent design and coding conventions.
+These components form the foundation of the Airbnb Clone’s visual and functional experience.
+
+Planned Components
+🧭 Navbar
+
+The Navbar serves as the main navigation header, designed to be responsive and accessible across all screen sizes.
+
+Includes:
+
+Logo: Represents the brand and links back to the homepage.
+
+Search Bar: Allows users to quickly search for destinations or properties.
+
+User Navigation: Includes login/register buttons or profile dropdown for logged-in users.
+
+Responsive Menu: Collapsible hamburger menu for mobile and tablet screens.
+
+Purpose:
+Ensures smooth navigation and helps users easily explore available listings and account options.
+
+🏠 Property Card
+
+The Property Card is a core visual component used to display property information in grid or list views.
+
+Includes:
+
+Property Image: Showcases the main image of the property.
+
+Basic Details: Displays essential information such as price per night, location, and user rating.
+
+Favorite Button: Allows users to “like” or save properties to their wishlist.
+
+Responsive Layout: Adjusts automatically for different screen sizes and device orientations.
+
+Purpose:
+Provides users with clear, visually appealing property summaries that encourage exploration and interaction.
+
+⚙️ Footer
+
+The Footer appears at the bottom of every page, offering users additional navigation and company information.
+
+Includes:
+
+Site Links: Quick access to main pages such as About, Contact, and Help.
+
+Company Information: Displays brief company info or mission statement.
+
+Social Media Links: Icons linking to social platforms like Facebook, Instagram, or Twitter.
+
+Copyright Information: Displays ownership rights and year.
+
+Purpose:
+Improves user trust, supports site navigation, and reinforces brand identity across all pages.
+
+Each component will be designed with reusability, responsiveness, and consistency in mind to maintain a unified look and feel throughout the application. Components will follow best practices in accessibility, modularity, and scalability.
+
